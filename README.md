@@ -1,4 +1,6 @@
-# ckb-Central-Kurdish-files-for-Tesseract-engine
+# ckb-Central-Kurdish-files-for-Tesseract-engine 
+Hello everyone, today I will introduce the first Kurdish OCR trained data used by Tesseract engline (the most powerful engine for Optical character recognition supported by google since 2006) for extracting test from everything!  (:.
+Let me tell you about Language prefix used by tesseract repo. They used kur_ara for Central Kurdish and kmr for Kurmanji but I told them use ckb as it's in the ISO-639, and leave kur for macro model language contains all dialects trained texts so see what will happen and what they say.
 This repo contains a small test ckb.traineddata for Tesseract trained from Arabic script and also a unicharset.
 This trained model has been created better to say finetuned from Arabic script model. It's only for testing and we we're now training it for LSTM best model.
 Training text was about 200000 sorted lines with all misspelling in it but don't worry won't lead to any problem, Tesseract takes care of anything!. The training test cloned from Asosoft repo https://github.com/AsoSoft/AsoSoft-Text-Corpus and they have a large project for Kurdish Speech and Language Processing for first time, we're all waiting for and We appreciate their work but I reversed this mentioned line in their repo "Everywhere "ر" or "وو" is used as the first letter of words, it is replaced with "ڕ" or "وو" correspondingly." I thank them for their effort, But we all have to respect latest changes in Kurdish grammar.  
