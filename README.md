@@ -8,12 +8,12 @@ Training text was about 200000 sorted lines with all misspelling in it but don't
 And about unicharset, I want to say I place all characters either panctution used for writting.
 Arabic num and Persian num placed in unicharset
 "ک" and "ك" included
-"ھ" and "ه" included but as I said these doesn't make any problem, these has been seen a lot in Kurdish texts so after image or pdf OCRed we can make a wordlist according to Kurdish grammar and a spell checker to replce all "ك" with "ک" and others so.FOR more information and latest news and updates about Kurdish Grammar please visit "http://diyako.yageyziman.com/". 
+"ھ" and "ه" included but as I said these doesn't make any problem, these has been seen a lot in Kurdish texts so after image or pdf OCRed we can make a wordlist according to Kurdish grammar and a spell checker to replce all "ك" with "ک" and others so. 
 other chars doesn'y exist in Kurdish moved to forbidden_characters file. 
 
 for testing Kurdish OCR have a look to my Fb posts.
 
 
 this is my email and Fb account, Please feel free to contact me if you have any questions or comments
-ayub.rauf92@gmail.com 
+ayub_rauf@yahoo.co.uk
 Fb https://www.facebook.com/ayub.rauf.aziz
