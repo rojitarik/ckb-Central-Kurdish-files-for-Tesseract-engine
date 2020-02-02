@@ -1,4 +1,4 @@
-# ckb-Central-Kurdish-files-for-Tesseract-engine 
+# Central Kurdish trained model for Tesseract engine 
 Hello everyone, today I will introduce the first Kurdish OCR trained data used by Tesseract engline (the most powerful engine for Optical character recognition supported by google since 2006) for extracting test from everything!  (:
 
 Let me tell you about Language prefix used by tesseract repo. They used kur_ara for Central Kurdish and kmr for Kurmanji but I told them use ckb as it's in the ISO-639, and leave kur for macro model language contains all dialects trained texts so see what will happen and what they say.
